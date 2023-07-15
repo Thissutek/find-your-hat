@@ -6,6 +6,8 @@
   "author": "Codecademy",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.1.7"
+    "cli-color": "^2.0.3",
+    "prompt-sync": "^4.1.7",
+    "readline-sync": "^1.4.10"
   }
 }
